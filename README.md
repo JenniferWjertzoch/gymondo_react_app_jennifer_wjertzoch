@@ -1,4 +1,4 @@
-## Gymondo React App
+## Workout Plattform React App
 
 Build a list of workouts and their details so that the user can can choose one that best fits their schedule.
 
